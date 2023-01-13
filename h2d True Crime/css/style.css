@@ -1,0 +1,170 @@
+.ice {
+    padding-left:0px;
+background-color: rgba(0, 0, 0, 0.192);
+backdrop-filter: blur(8px);
+height: 45px;
+width: 250px;
+position: absolute;
+top: 320px;
+border-radius: 0px 0px 20px 20px;
+font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+"Lucida Sans", Arial, sans-serif;
+color: rgb(255, 255, 255);
+} 
+.ice2 {
+    padding-left:0px;
+background-color: rgba(0, 0, 0, 0.192);
+backdrop-filter: blur(8px);
+height: 45px;
+width: 250px;
+position: absolute;
+top: 610px;
+border-radius: 0px 0px 20px 20px;
+font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+"Lucida Sans", Arial, sans-serif;
+color: rgb(255, 255, 255);
+} 
+.ice3 {
+padding-left:0px;
+background-color: rgba(0, 0, 0, 0.192);
+backdrop-filter: blur(8px);
+height: 45px;
+width: 250px;
+position: absolute;
+top: 890px;
+border-radius: 0px 0px 20px 20px;
+font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+"Lucida Sans", Arial, sans-serif;
+color: rgb(255, 255, 255);
+} 
+.image {
+    margin-top: 0px;
+    display: inline;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    }
+.anasayfa{
+	padding-top: 50px;
+	display :inline;
+	height: 100%;
+	width: 100%;
+}
+div {
+box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1);
+}
+body{
+    padding: 50px;
+    background-color: black;
+	text-align: center;
+}
+.BGbody{
+    background-image: url("../img/4.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.sliderimgCSS{
+	float: right;
+    width: 1500px;
+    height: 900px;
+}
+.sliderimgCSS:hover {
+	box-shadow: 0px 0px 50px #500000;
+}
+.cardimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+	display: block;
+}
+.cardimg:hover{
+    box-shadow: 0px 0px 50px #500;
+}
+.kat{
+	display: inline-block;
+	padding-top: 50px;
+}
+@font-face{
+    font-family: 'killerFont';
+    src:url("../font/butcher-the-baker-font/ButcherTheBaker-R8RA.ttf");
+}
+.sliderDiv  {
+	flat:right;
+	display: inline;
+	width: 1250;
+	height: 800px;
+}
+.header {
+	height: 400px;
+	width: 100%;
+}
+.kisi{
+	border-radius: 25px; 
+	width: 350px;
+	height: 750px;
+}
+.kisi img{
+	width: 300px;
+	box-shadow: 0px 0px 50px #500;
+	border-radius: 25px;
+}
+.olay{
+	padding:5px;
+	font-size: 20px;
+	color:#500;
+}
+.thimg{
+	width: 250px;
+	height: 250px;
+}
+.thp{
+	border-radius:0px 35px 35px 0px;
+	background-color: #200202;
+	padding: 5px;
+	color:white;
+	width: 500px;
+	height: 250px;
+}
+.isim{
+	border-radius: 35px 0px 0px 35px;
+	box-shadow:0px 0px 50px #500;
+}
+.icerik{
+	box-shadow: 0px 0px 50px #500;
+	width: 710px;
+	height: 260px;
+	display: inline;
+}
+.ortak{
+	display: inline;
+}
+.bos{
+	width: 100px;
+	height: 250px;
+	background-color: black;
+}
+.tabla{
+	padding: 50px;
+}
+.donus{
+	text-align: center;
+	width: 100%;
+}
+.donus a{
+	display: inline;
+	text-decoration: none;
+	color:white;
+}
+.donusimg{
+	display:inline;
+	width: 120px;
+	margin-bottom:15px;
+	margin-left:15px;
+	margin-right:15px;
+	box-shadow:0px 0px 20px #500000;
+}
+.donusimg:hover{
+	box-shadow: 0px 0px 50px #500000;
+}
